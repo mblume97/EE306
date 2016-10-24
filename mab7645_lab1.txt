@@ -1,0 +1,47 @@
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+- EE306 Introduction to Computing                                                   -
+- Fall 2016, DR. TELANG                                                             -
+- The University of Texas at Austin                                                 -
+- Department of Electrical and Computer Engineering                                 -
+-------------------------------------------------------------------------------------
+- lab1	feedback for student (mab7645 )                                             -
+- Graded on 2016-10-23 16:49:14                                                     -
+-                                                                                   -
+- Notes                                                                             -
+- * Test result will be one of these {PASSED,FAILED,TIMEOUT}                        -
+- * You ONLY receive credit for PASSED tests                                        -
+- * TIMEOUT means your code did not finish execution in 5 seconds                   -
+-------------------------------------------------------------------------------------
+- test,  result, weight, input specification,	description                         -
+-                                                                                   -
+-    0,  PASSED,      2, empty array,	 check if input array is altered
+-    1,  PASSED,      2, empty array,	 check if output array is correct
+-    2,  PASSED,      2, array of length 1 (uppercase),	 check if input array is altered
+-    3,  PASSED,      7, array of length 1 (uppercase),	 check if output array is correct
+-    4,  PASSED,      3, array of length 1 (uppercase),	 check if output array has sentinel
+-    5,  PASSED,      2, array of length 1 (lowercase),	 check if input array is altered
+-    6,  PASSED,      7, array of length 1 (lowercase),	 check if output array is correct
+-    7,  PASSED,      3, array of length 1 (lowercase),	 check if output array has sentinel
+-    8,  PASSED,      2, small array (all uppercase),	 check if input array is altered
+-    9,  PASSED,      7, small array (all uppercase),	 check if output array is correct
+-   10,  PASSED,      3, small array (all uppercase),	 check if output array has sentinel
+-   11,  PASSED,      2, small array (all lowercase),	 check if input array is altered
+-   12,  PASSED,      7, small array (all lowercase),	 check if output array is correct
+-   13,  PASSED,      3, small array (all lowercase),	 check if output array has sentinel
+-   14,  PASSED,      2, small array (mixed upper and lower case),	 check if input array is altered
+-   15,  PASSED,      7, small array (mixed upper and lower case),	 check if output array is correct
+-   16,  PASSED,      3, small array (mixed upper and lower case),	 check if output array has sentinel
+-   17,  PASSED,      2, large array (all uppercase),	 check if input array is altered
+-   18,  PASSED,      7, large array (all uppercase),	 check if output array is correct
+-   19,  PASSED,      3, large array (all uppercase),	 check if output array has sentinel
+-   20,  PASSED,      2, large array (all lowercase),	 check if input array is altered
+-   21,  PASSED,      7, large array (all lowercase),	 check if output array is correct
+-   22,  PASSED,      3, large array (all lowercase),	 check if output array has sentinel
+-   23,  PASSED,      2, large array (mixed upper and lower case),	 check if input array is altered
+-   24,  PASSED,      7, large array (mixed upper and lower case),	 check if output array is correct
+-   25,  PASSED,      3, large array (mixed upper and lower case),	 check if output array has sentinel
+-------------------------------------------------------------------------------------
+- TOTAL = 100                                                                       -
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
