@@ -1,0 +1,61 @@
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+- EE306 Introduction to Computing                                                   -
+- Fall 2016, DR. TELANG                                                             -
+- The University of Texas at Austin                                                 -
+- Department of Electrical and Computer Engineering                                 -
+-------------------------------------------------------------------------------------
+- lab2	feedback for student (mab7645 )                                             -
+- Graded on 2016-10-31 10:58:05                                                     -
+-                                                                                   -
+- Notes                                                                             -
+- * Test result will be one of these {PASSED,FAILED,TIMEOUT}                        -
+- * You ONLY receive credit for PASSED tests                                        -
+- * TIMEOUT means your code did not finish execution in 5 seconds                   -
+-------------------------------------------------------------------------------------
+- test,  result, weight, input specification,	description                         -
+-                                                                                   -
+-    0,  PASSED,      1, no student,	 check count
+-    1,  PASSED,      2, no student,	 check range
+-    2,  PASSED,      2, no student,	 check median
+-    3,  PASSED,      5, no student,	 check sort result
+-    4,  PASSED,      1, one student,	 check count
+-    5,  PASSED,      2, one student,	 check range
+-    6,  PASSED,      2, one student,	 check median
+-    7,  PASSED,      5, one student,	 check sort result
+-    8,  PASSED,      1, two students (already sorted),	 check count
+-    9,  PASSED,      2, two students (already sorted),	 check range
+-   10,  PASSED,      2, two students (already sorted),	 check median
+-   11,  PASSED,      5, two students (already sorted),	 check sort result
+-   12,  PASSED,      1, two students (initially unsorted),	 check count
+-   13,  PASSED,      2, two students (initially unsorted),	 check range
+-   14,  PASSED,      2, two students (initially unsorted),	 check median
+-   15,  PASSED,      5, two students (initially unsorted),	 check sort result
+-   16,  PASSED,      1, two students (initially unsorted + null student's score is 0),	 check count
+-   17,  PASSED,      2, two students (initially unsorted + null student's score is 0),	 check range
+-   18,  PASSED,      2, two students (initially unsorted + null student's score is 0),	 check median
+-   19,  PASSED,      5, two students (initially unsorted + null student's score is 0),	 check sort result
+-   20,  PASSED,      1, three students (already sorted),	 check count
+-   21,  PASSED,      2, three students (already sorted),	 check range
+-   22,  PASSED,      2, three students (already sorted),	 check median
+-   23,  PASSED,      5, three students (already sorted),	 check sort result
+-   24,  PASSED,      1, three students (initially unsorted),	 check count
+-   25,  PASSED,      2, three students (initially unsorted),	 check range
+-   26,  PASSED,      2, three students (initially unsorted),	 check median
+-   27,  PASSED,      5, three students (initially unsorted),	 check sort result
+-   28,  PASSED,      1, three students (initially unsorted + null student's score is 0),	 check count
+-   29,  PASSED,      2, three students (initially unsorted + null student's score is 0),	 check range
+-   30,  PASSED,      2, three students (initially unsorted + null student's score is 0),	 check median
+-   31,  PASSED,      5, three students (initially unsorted + null student's score is 0),	 check sort result
+-   32,  PASSED,      1, small number of students,	 check count
+-   33,  PASSED,      2, small number of students,	 check range
+-   34,  PASSED,      2, small number of students,	 check median
+-   35,  PASSED,      5, small number of students,	 check sort result
+-   36,  PASSED,      1, large number of students,	 check count
+-   37,  PASSED,      2, large number of students,	 check range
+-   38,  PASSED,      2, large number of students,	 check median
+-   39,  PASSED,      5, large number of students,	 check sort result
+-------------------------------------------------------------------------------------
+- TOTAL = 100                                                                       -
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
