@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+- EE306 Introduction to Computing                                                   -
+- Fall 2016, DR. TELANG                                                             -
+- The University of Texas at Austin                                                 -
+- Department of Electrical and Computer Engineering                                 -
+-------------------------------------------------------------------------------------
+- lab3	feedback for student (mab7645 )                                             -
+- Graded on 2016-11-13 13:41:23                                                     -
+-                                                                                   -
+- Notes                                                                             -
+- * Test result will be one of these {PASSED,FAILED,TIMEOUT}                        -
+- * You ONLY receive credit for PASSED tests                                        -
+- * TIMEOUT means your code did not finish execution in 5 seconds                   -
+-------------------------------------------------------------------------------------
+- test,  result, weight, input specification,	description                         -
+-                                                                                   -
+-    0,  PASSED,      5, no student,	 check linked-list is untouched + random not registered student
+-    1,  PASSED,      5, one student,	 check linked-list is untouched + registered student
+-    2,  PASSED,      5, one student,	 check linked-list is untouched + random not registered student
+-    3,  PASSED,      4, one student,	 check linked-list is untouched + not registered student (+1 letter)
+-    4,  PASSED,      4, one student,	 check linked-list is untouched + not registered student (-1 letter)
+-    5,  PASSED,      5, two students,	 check linked-list is untouched + first student
+-    6,  PASSED,      5, two students,	 check linked-list is untouched + last student
+-    7,  PASSED,      4, two students,	 check linked-list is untouched + random not registered student
+-    8,  PASSED,      4, two students,	 check linked-list is untouched + not registered student (+1 letter)
+-    9,  PASSED,      4, two students,	 check linked-list is untouched + not registered student (-1 letter)
+-   10,  PASSED,      5, three students,	 check linked-list is untouched + first student
+-   11,  PASSED,      5, three students,	 check linked-list is untouched + second student
+-   12,  PASSED,      5, three students,	 check linked-list is untouched + third student
+-   13,  PASSED,      4, three students,	 check linked-list is untouched + random not registered student
+-   14,  PASSED,      4, three students,	 check linked-list is untouched + not registered student (+1 letter)
+-   15,  PASSED,      4, three students,	 check linked-list is untouched + not registered student (-1 letter)
+-   16,  PASSED,      5, single letter lastnames,	 check linked-list is untouched + registered student#1
+-   17,  PASSED,      5, single letter lastnames,	 check linked-list is untouched + registered student#2
+-   18,  PASSED,      4, single letter lastnames,	 check linked-list is untouched + random not registered student
+-   19,  PASSED,      5, fifteen letter lastnames,	 check linked-list is untouched + registered student#1
+-   20,  PASSED,      5, fifteen letter lastnames,	 check linked-list is untouched + registered student#2
+-   21,  PASSED,      4, fifteen letter lastnames,	 check linked-list is untouched + random not registered student
+-------------------------------------------------------------------------------------
+- TOTAL = 100                                                                       -
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
