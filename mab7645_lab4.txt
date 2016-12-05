@@ -6,7 +6,7 @@
 - Department of Electrical and Computer Engineering                                 -
 -------------------------------------------------------------------------------------
 - lab4	feedback for student (mab7645 )                                             -
-- Graded on 2016-11-29 18:26:30                                                     -
+- Graded on 2016-12-04 21:31:23                                                     -
 -                                                                                   -
 - Notes                                                                             -
 - * Test result will be one of these {PASSED,FAILED,TIMEOUT}                        -
@@ -15,24 +15,25 @@
 -------------------------------------------------------------------------------------
 - test,  result, weight, input specification,	description                         -
 -                                                                                   -
--    0,  FAILED,      5, Invalid inputs check,	 Type a letter instead of a number
--    1,  FAILED,      5, Invalid inputs check,	 Type the number 0
--    2,  FAILED,      5, Invalid inputs check,	 Type the number 7
--    3,  FAILED,      5, Invalid inputs check,	 Correct Format (dash-space-dash)
--    4,  FAILED,      4, Invalid inputs check,	 inputs: 3-3-3-3-3-3-3
--    5,  FAILED,     10, Horizontal win check,	 inputs: 1-1-2-2-3-3-4
--    6,  FAILED,     10, Horizontal win check,	 inputs: 6-6-5-5-4-4-3
--    7,  FAILED,     20, Vertical win check,	 input: 5-6-5-6-5-6-5
--    8,  FAILED,     20, Tie check,	 input: 1-1-1-1-1-1-2-2-2-2-2-2-3-4-4-4-4-4-4-5-5-5-5-5-5-6-6-6-6-6-6-3-3-3-3-3
--    9,  FAILED,      2, Diagonal win check,	 inputs: 1-1-1-1-2-2-3-2-5-3-6-4
--   10,  FAILED,      2, Diagonal win check,	 inputs: 1-1-1-1-2-2-3-4-5-3-6-2
--   11,  FAILED,      2, Diagonal win check,	 inputs: 6-1-1-1-4-3-3-2-2-5-2-5-1
--   12,  FAILED,      2, Diagonal win check,	 inputs: 6-1-1-1-4-3-1-2-2-5-2-5-3
--   13,  FAILED,      2, Diagonal win check,	 inputs: 6-6-6-6-5-5-4-5-1-3-3-4
--   14,  FAILED,      2, Diagonal win check,	 inputs: 6-6-6-6-5-5-4-4-1-3-3-5
--   15,  FAILED,      2, Diagonal win check,	 inputs: 1-6-6-6-3-4-4-5-5-2-5-2-6
--   16,  FAILED,      2, Diagonal win check,	 inputs: 1-6-6-6-6-4-4-5-5-2-5-2-3
+-    0,  PASSED,      5, Invalid inputs check,	 Type a letter instead of a number
+-    1,  PASSED,      5, Invalid inputs check,	 Type the number 0
+-    2,  PASSED,      5, Invalid inputs check,	 Type the number 7
+-    3,  PASSED,      5, Invalid inputs check,	 Correct Format (dash-space-dash)
+-    4,  PASSED,      4, Invalid inputs check,	 inputs: 3-3-3-3-3-3-3
+-    5,  PASSED,     10, Horizontal win check,	 inputs: 1-1-2-2-3-3-4
+-    6,  PASSED,     10, Horizontal win check,	 inputs: 6-6-5-5-4-4-3
+-    7,  PASSED,     20, Vertical win check,	 input: 5-6-5-6-5-6-5
+-    8,  PASSED,     20, Tie check,	 input: 1-1-1-1-1-1-2-2-2-2-2-2-3-4-4-4-4-4-4-5-5-5-5-5-5-6-6-6-6-6-6-3-3-3-3-3
+-    9,  PASSED,      2, Diagonal win check,	 inputs: 1-1-1-1-2-2-3-2-5-3-6-4
+-   10,  PASSED,      2, Diagonal win check,	 inputs: 1-1-1-1-2-2-3-4-5-3-6-2
+-   11,  PASSED,      2, Diagonal win check,	 inputs: 6-1-1-1-4-3-3-2-2-5-2-5-1
+-   12,  PASSED,      2, Diagonal win check,	 inputs: 6-1-1-1-4-3-1-2-2-5-2-5-3
+-   13,  PASSED,      2, Diagonal win check,	 inputs: 6-6-6-6-5-5-4-5-1-3-3-4
+-   14,  PASSED,      2, Diagonal win check,	 inputs: 6-6-6-6-5-5-4-4-1-3-3-5
+-   15,  PASSED,      2, Diagonal win check,	 inputs: 1-6-6-6-3-4-4-5-5-2-5-2-6
+-   16,  PASSED,      2, Diagonal win check,	 inputs: 1-6-6-6-6-4-4-5-5-2-5-2-3
 -------------------------------------------------------------------------------------
-- TOTAL =   0                                                                       -
+- TOTAL = 100                                                                       -
+- FINAL GRADE WITH LATE SUBMISSION PENALTY =  90                                    -
 -------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------
